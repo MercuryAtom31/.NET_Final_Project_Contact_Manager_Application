@@ -93,7 +93,7 @@ namespace ContactManagerApp1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ContactManagerApp1;component/contactdetailswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ContactManagerApp1;V1.0.0.0;component/contactdetailswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ContactDetailsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

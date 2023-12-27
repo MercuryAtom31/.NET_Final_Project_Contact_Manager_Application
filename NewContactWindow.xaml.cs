@@ -24,9 +24,7 @@ namespace ContactManagerApp1
         public NewContactWindow()
         {
             InitializeComponent();
-            //The following two lines of code make the window appear on top
-            //of the main window. Which fixes the default of opening the new 
-            //window on another the other monitor.
+
             Owner = Application.Current.MainWindow;
             WindowStartupLocation = WindowStartupLocation.CenterOwner;
         }

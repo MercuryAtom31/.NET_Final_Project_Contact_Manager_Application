@@ -27,9 +27,6 @@ namespace ContactManagerApp1
         {
             InitializeComponent();
 
-            //The following two lines of code make the window appear on top
-            //of the main window. Which fixes the default of opening the new 
-            //window on another the other monitor.
             Owner = Application.Current.MainWindow;
             WindowStartupLocation = WindowStartupLocation.CenterOwner;
 
@@ -56,32 +53,6 @@ namespace ContactManagerApp1
 
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
-            //using (SQLiteConnection connection = new SQLiteConnection(App.databasePath))
-            //{
-            //    connection.CreateTable<Contacts>();
-            //    connection.Delete(contacts);
-            //}
-
-            //Close();
-
-            //*************************
-
-            //MessageBoxResult result = MessageBox.Show("Are you sure you want to delete this contact?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
-
-            //if (result == MessageBoxResult.Yes)
-            //{
-            //    using (SQLiteConnection connection = new SQLiteConnection(App.databasePath))
-            //    {
-            //        connection.CreateTable<Contacts>();
-            //        connection.Delete(contacts);
-            //    }
-
-            //    Close();
-            //}
-            // If the user clicks "No" or closes the message box, do nothing.
-
-            //*********************************
-
             var confirmationDialog = new ConfirmationMessageBox();
             confirmationDialog.Owner = this;
 
