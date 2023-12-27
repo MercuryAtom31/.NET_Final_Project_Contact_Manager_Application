@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWf0Fhmd9/XIDSmz8qEBfmpZpZwt6aVKYAOoM8mLc7t/kYv30sepvIPPbhPEWVgUlFLVxWc8gnVwnVxNPVzC6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hiche\\Desktop\\Term 7 Fall23-24(Asus)\\DotNET DEVELOPMENT\\FINAL_PROJECT\\Contact Manager App Hichem Benzaïr\\ContactManagerApp1\\ContactManagerApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiche\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\hiche\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\hiche\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\hiche\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\hiche\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\hiche\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
